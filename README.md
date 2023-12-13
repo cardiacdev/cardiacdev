@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=cardiacdev%2Fcardiacdev&labelColor=%230d1117&countColor=%23539bf5"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="50" src="pixel_campfire.webp" />
+  <img width="50" src="assets/pixel_campfire.webp" />
 </p>
 
 <p align="center">
