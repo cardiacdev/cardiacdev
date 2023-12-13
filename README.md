@@ -1,21 +1,16 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=cardiacdev%2Fcardiacdev&labelColor=%230d1117&countColor=%23539bf5)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=539BF5&center=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=%3CCardiac+%2F%3E;%2F%2F+fullstack+developer" alt="Typing SVG" /></a>
+</p>
 
-![](https://raw.githubusercontent.com/cardiacdev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/cardiacdev/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/cardiacdev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/cardiacdev/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=cardiacdev%2Fcardiacdev&labelColor=%230d1117&countColor=%23539bf5"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="50" src="pixel_campfire.webp" />
+</p>
 
-<!--
-**cardiacdev/cardiacdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cardiacdev/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/cardiacdev/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/cardiacdev/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/cardiacdev/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+</p>
